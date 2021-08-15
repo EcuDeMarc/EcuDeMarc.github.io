@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Écu de Marc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 13:50:18 +0100</lastBuildDate><atom:link href="https://ecudemarc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 10:18:43 +0100</lastBuildDate><atom:link href="https://ecudemarc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Money Network</title>
+      <link>https://ecudemarc.github.io/posts/money-network/</link>
+      <pubDate>Sun, 15 Aug 2021 10:18:43 +0100</pubDate>
+      
+      <guid>https://ecudemarc.github.io/posts/money-network/</guid>
+      <description>Money is best thought as a network of credit/debit relationships.
+A relatively simple money network is shown in the image below.
+   In the image, we can see four actors (A,B,C,D).
+Each actor has at least one relationship, denoted by an arrow, with another actor.
+For example, taking the arrow going from actor A to actor B, we can see that B owes 100 to A. Looking at the arrow from D to A we can see that D has a credit claim of 10 on A.</description>
+    </item>
+    
     <item>
       <title>What Is Money?</title>
       <link>https://ecudemarc.github.io/posts/what-is-money/</link>
