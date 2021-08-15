@@ -122,15 +122,15 @@
 <pre><code>100 + 50 + 25 + 10 = 185
 </code></pre><p>We can then sum up all of the debits.</p>
 <pre><code>35 + 100 + 50 + 0 = 185
-</code></pre><p>As we can see, in our example, the sum of credits is equal to the sum of debits. We can say then that credits and debit cancel out.</p>
-<h2 id="aggregate-vs-detailed-analysis">Aggregate vs detailed analysis</h2>
+</code></pre><p>As we can see, in our example, the sum of credits is equal to the sum of debits. We can say that this example money network respects the property where the sum of the credits and of the debits cancel out.</p>
+<h2 id="aggregate-vs-detailed-analysis">Aggregate vs. detailed analysis</h2>
 <p>Altough the credits and debits have to cancel out in aggregate in any money network, we can see that this may not be true at an actor level.</p>
 <p>Indeed, there are some actors that have many credits and very few debits (e.g. actor A and C) and actors that have many debits and few credits (e.g. actor B, C).</p>
 <p>Thus, from this one can conclude that an analysis at an aggregate level is not that informative and a more detailed analysis of the network is of more use.</p>
 <h2 id="equity">Equity</h2>
 <p>The concept of equity is defined as follows:</p>
-<pre><code>equity = assets - debits
-</code></pre><p>In short, equity stands for the value of assets in excess of debts. Equity is what the actor would end up having in credits after the extinction of all the debts.</p>
+<pre><code>equity = credits - debits
+</code></pre><p>In short, equity stands for the value of credits in excess of the value of debits. Equity is what the actor would end up having in credits after the extinction of all the debits.</p>
 <p>By using the above definition, we can easily calculate the equity for each one of the actors in our example money network.</p>
 <table>
 <thead>
@@ -159,10 +159,12 @@
 </tbody>
 </table>
 <p>One can see that two actors (A, D) have positive equity and that two actors (B, C) have negative equity.</p>
-<p>By the property, described above, that the sum of credits and debits have to cancel out, we can also say that the sum of the equity in any money network has to sum up to exactly zero. We can very this in this example money network.</p>
+<p>By the property, described above, that the sum of credits and debits have to cancel out, we can also say that the sum of the equity in any money network has to sum up to exactly zero. We can verify that this latter property is respected in the example money network we show in this post by performing the following calculation.</p>
 <pre><code>65 - 50 - 25 + 10 = 0
-</code></pre><h2 id="conclusion">Conclusion</h2>
-<p>We can see that no equity is created in any money network. What really matters is the distribution of the equity in the money network.</p>
+</code></pre><p>We can indeed conclude that the equity of the example money network shown in this post sums up to zero as expected.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>From the above, we can see that no equity can ever be created in any money network at an aggregate level.</p>
+<p>Thus, what really matters is the distribution of the equity in the money network.</p>
 
 			</div>
 		</article>
