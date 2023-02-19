@@ -29,7 +29,7 @@ To fund the purchase of said property, we need equity on top of debt.</descripti
       <guid>https://ecudemarc.github.io/posts/money-network/</guid>
       <description>Money is best thought as a network of credit/debit relationships.
 A relatively simple money network is shown in the image below.
-   In the image, we can see four actors (A,B,C,D).
+In the image, we can see four actors (A,B,C,D).
 Each actor has at least one relationship, denoted by an arrow, with another actor.
 For example, taking the arrow going from actor A to actor B, we can see that B owes 100 to A. Looking at the arrow from D to A we can see that D has a credit claim of 10 on A.</description>
     </item>
