@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Écu de Marc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Aug 2021 12:47:44 +0100</lastBuildDate><atom:link href="https://ecudemarc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 10:10:23 +0000</lastBuildDate><atom:link href="https://ecudemarc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the motivation behind the introduction of the Central Bank Digital Currency (&#34;CBDC&#34;)?</title>
+      <link>https://ecudemarc.github.io/posts/what-is-motivation-behind-cbdc/</link>
+      <pubDate>Sun, 19 Feb 2023 10:10:23 +0000</pubDate>
+      
+      <guid>https://ecudemarc.github.io/posts/what-is-motivation-behind-cbdc/</guid>
+      <description>Many central banks across the world are all pursuing the idea of introducing a retail payment system commonly named Central Bank Digital Currency (&amp;ldquo;CBDC&amp;rdquo;). In reality, this is not a currency but simply an alternative payment system that would sit alongside other existing payment systems:
+Central bank managed wholesale payment system (e.g. Fedwire) Private payment systems (e.g. Visa, Mastercard, Paypal) It is clear to all that the current payment system landscape is dominated by private actors.</description>
+    </item>
+    
     <item>
       <title>House Prices and Interest Rates</title>
       <link>https://ecudemarc.github.io/posts/house-prices-interest-rates/</link>
