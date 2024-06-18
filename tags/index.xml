@@ -4,7 +4,8 @@
     <title>Tags on Écu de Marc</title>
     <link>https://ecudemarc.github.io/tags/</link>
     <description>Recent content in Tags on Écu de Marc</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ecudemarc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ecudemarc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

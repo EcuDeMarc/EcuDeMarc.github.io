@@ -4,58 +4,44 @@
     <title>Écu de Marc</title>
     <link>https://ecudemarc.github.io/</link>
     <description>Recent content on Écu de Marc</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 10:10:23 +0000</lastBuildDate><atom:link href="https://ecudemarc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2024 23:09:57 +0200</lastBuildDate>
+    <atom:link href="https://ecudemarc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank and State Money</title>
+      <link>https://ecudemarc.github.io/posts/bank-state-money/</link>
+      <pubDate>Mon, 17 Jun 2024 23:09:57 +0200</pubDate>
+      <guid>https://ecudemarc.github.io/posts/bank-state-money/</guid>
+      <description>This post is about the money of the State and the money of the Banks and how the two relate to each other.&#xA;In medieval times the money of the State was separate from that of the Bank whereas in modern times the two monies intermingle and are closely knitted together. This post tries to explain this.&#xA;We know that the State can create money on its own right as a sovereign entity.</description>
+    </item>
     <item>
       <title>What is the motivation behind the introduction of the Central Bank Digital Currency (&#34;CBDC&#34;)?</title>
       <link>https://ecudemarc.github.io/posts/what-is-motivation-behind-cbdc/</link>
       <pubDate>Sun, 19 Feb 2023 10:10:23 +0000</pubDate>
-      
       <guid>https://ecudemarc.github.io/posts/what-is-motivation-behind-cbdc/</guid>
-      <description>Many central banks across the world are all pursuing the idea of introducing a retail payment system commonly named Central Bank Digital Currency (&amp;ldquo;CBDC&amp;rdquo;). In reality, this is not a currency but simply an alternative payment system that would sit alongside other existing payment systems:
-Central bank managed wholesale payment system (e.g. Fedwire) Private payment systems (e.g. Visa, Mastercard, Paypal) It is clear to all that the current payment system landscape is dominated by private actors.</description>
+      <description>Many central banks across the world are all pursuing the idea of introducing a retail payment system commonly named Central Bank Digital Currency (&amp;ldquo;CBDC&amp;rdquo;). In reality, this is not a currency but simply an alternative payment system that would sit alongside other existing payment systems:&#xA;Central bank managed wholesale payment system (e.g. Fedwire) Private payment systems (e.g. Visa, Mastercard, Paypal) It is clear to all that the current payment system landscape is dominated by private actors.</description>
     </item>
-    
     <item>
       <title>House Prices and Interest Rates</title>
       <link>https://ecudemarc.github.io/posts/house-prices-interest-rates/</link>
       <pubDate>Sun, 22 Aug 2021 12:47:44 +0100</pubDate>
-      
       <guid>https://ecudemarc.github.io/posts/house-prices-interest-rates/</guid>
-      <description>What is the relationship between house prices and interest rates?
-In this post, we try to explain this relationship.
-Let us start with one simple example.
-Example 1 Let us assume we own a property which, if rented out, can achieve an annual rental income of 12,000.
-Furthermore, let us assume that the prevailing interest rate at the time on debt is 8% per annum.
-To fund the purchase of said property, we need equity on top of debt.</description>
+      <description>What is the relationship between house prices and interest rates?&#xA;In this post, we try to explain this relationship.&#xA;Let us start with one simple example.&#xA;Example 1 Let us assume we own a property which, if rented out, can achieve an annual rental income of 12,000.&#xA;Furthermore, let us assume that the prevailing interest rate at the time on debt is 8% per annum.&#xA;To fund the purchase of said property, we need equity on top of debt.</description>
     </item>
-    
     <item>
       <title>Money Network</title>
       <link>https://ecudemarc.github.io/posts/money-network/</link>
       <pubDate>Sun, 15 Aug 2021 10:18:43 +0100</pubDate>
-      
       <guid>https://ecudemarc.github.io/posts/money-network/</guid>
-      <description>Money is best thought as a network of credit/debit relationships.
-A relatively simple money network is shown in the image below.
-In the image, we can see four actors (A,B,C,D).
-Each actor has at least one relationship, denoted by an arrow, with another actor.
-For example, taking the arrow going from actor A to actor B, we can see that B owes 100 to A. Looking at the arrow from D to A we can see that D has a credit claim of 10 on A.</description>
+      <description>Money is best thought as a network of credit/debit relationships.&#xA;A relatively simple money network is shown in the image below.&#xA;In the image, we can see four actors (A,B,C,D).&#xA;Each actor has at least one relationship, denoted by an arrow, with another actor.&#xA;For example, taking the arrow going from actor A to actor B, we can see that B owes 100 to A. Looking at the arrow from D to A we can see that D has a credit claim of 10 on A.</description>
     </item>
-    
     <item>
       <title>What Is Money?</title>
       <link>https://ecudemarc.github.io/posts/what-is-money/</link>
       <pubDate>Sun, 08 Aug 2021 13:50:18 +0100</pubDate>
-      
       <guid>https://ecudemarc.github.io/posts/what-is-money/</guid>
-      <description>What is money?
-Is it a medium of exchange?
-Is it a convenient tool we all decide to use to carry out transactions?
-I would argue it is not a medium of exchange and it is not a convenient tool we use to perform transactions.
-Instead, I believe that money is a measurement device of value. In other words, it is a unit of account. Like we use the Fahrenheit scale to measure temperature, we use money to measure value.</description>
+      <description>What is money?&#xA;Is it a medium of exchange?&#xA;Is it a convenient tool we all decide to use to carry out transactions?&#xA;I would argue it is not a medium of exchange and it is not a convenient tool we use to perform transactions.&#xA;Instead, I believe that money is a measurement device of value. In other words, it is a unit of account. Like we use the Fahrenheit scale to measure temperature, we use money to measure value.</description>
     </item>
-    
   </channel>
 </rss>
